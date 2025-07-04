@@ -27,7 +27,7 @@ Tutte le griglie sono responsive: sotto i 768px le colonne si impilano verticalm
    </div>
    ```
 
-👉 Per la documentazione completa visita il sito ufficiale: **[https://manticorecss.vercel.app](https://manticorecss.vercel.app)**
+👉 Per la documentazione completa visita il sito ufficiale: **[https://manticorecss.vercel.app](https://manticorecss.com)**
 
 ## ⚠️ Note sull’uso / Usage Notes
 
