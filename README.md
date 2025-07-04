@@ -29,6 +29,16 @@ Tutte le griglie sono responsive: sotto i 768px le colonne si impilano verticalm
 
 👉 Per la documentazione completa visita il sito ufficiale: **[https://manticorecss.vercel.app](https://manticorecss.vercel.app)**
 
-## 📄 Licenza
+## ⚠️ Note sull’uso / Usage Notes
 
-MIT – puoi usarlo liberamente per progetti personali e commerciali.
+Puoi usare **ManticoreCSS** liberamente per progetti personali o commerciali.
+
+✅ È consentito:
+- Includerlo nei tuoi siti web, template, landing page, progetti personali o per clienti
+- Utilizzarlo come base nei tuoi lavori (anche a pagamento)
+
+❌ Non è consentito:
+- Rivendere il framework **come prodotto autonomo** (es. pubblicarlo su marketplace, distribuirlo in bundle, spacciarlo per tuo lavoro)
+- Caricarlo su altri repository pubblici senza attribuzione
+
+💙 Se ti è utile, una mention o un link è sempre apprezzato.
